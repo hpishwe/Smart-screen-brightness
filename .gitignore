@@ -1,0 +1,49 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment folder
+venv/
+.env/
+.env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python cache and egg info
+*.egg-info/
+*.eggs/
+*.cache/
+
+# Environment variables and config files
+.env
+config.json
+
+# Editor/IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Dependencies installed via pip
+*.egg
+*.whl
+Pipfile.lock
+
+# Compiled libraries or binaries
+*.so
+*.dll
+*.dylib
+
+# Results or output data
+results/
+output/
+captures/
